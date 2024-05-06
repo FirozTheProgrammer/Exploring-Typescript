@@ -1,4 +1,7 @@
+let myName: string = "Firoz";
 let number: number = 1234;
+
+let isLogin: boolean = true;
 
 let ade;
 ade = "fff";
