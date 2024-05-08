@@ -1,6 +1,10 @@
+{
+    
+
 // Learning Funciton
 // Normal Function
 // Arrow function
+
 
 function add(num1: number, num2: number): number {
   return num1 + num2;
@@ -29,3 +33,5 @@ const arr: number[] = [3, 5, 7, 4, 9];
 
 const newArr: number[] = arr.map((elem: number): number => elem * elem);
 console.log(newArr);
+
+}
