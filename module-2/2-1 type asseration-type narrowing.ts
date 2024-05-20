@@ -17,9 +17,13 @@
   const asString = kgToGram("1000") as string;
   const asNumber = kgToGram(1000) as number;
 
+  const asNothingString = kgToGram("1000") as string;
   // output
   console.log(asString);
   console.log(asNumber);
 
+  const afString = kgToGram("1") as string;
+
+  console.log(afString);
   //
 }
